@@ -14,6 +14,7 @@ Hämta alla personer i systemet:
     "phone": "Maximus@gmail.com"
   }
 ]
+}
 
   _____________________________________________
 
