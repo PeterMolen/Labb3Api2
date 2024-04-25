@@ -2,7 +2,7 @@
 Swagger anrop och Json svar ifrån uppgiten:
   _____________________________________________
 
-[ ] Hämta alla personer i systemet
+Hämta alla personer i systemet
 
 ```json
 [
@@ -18,7 +18,6 @@ Swagger anrop och Json svar ifrån uppgiten:
   }
 ]
 
-  _____________________________________________
 
   Hämta alla intressen som är kopplade till en specifik person
   {
@@ -33,7 +32,7 @@ Swagger anrop och Json svar ifrån uppgiten:
       "title": "Basket",
       "description": "A sport"
     }
-    ______________________________________________
+
 
     Hämta alla länkar som är kopplade till en specifik person
     {
@@ -63,7 +62,7 @@ Swagger anrop och Json svar ifrån uppgiten:
       }
     ]
   }
-_______________________________________________________
+
 
 Koppla en person till ett nytt intresse
 för ett intresse:
@@ -77,10 +76,9 @@ flera intressen:
   "fkPersonId": 0,
   "interestIds": [1,2,3]
 }
-_____________________________________________________
+
+
 Lägga in nya länkar för en specifik person och ett specifikt intresse
-det ska vara mer [ ] inkluderat i dessa men tar bort dom för att jag får massa: --> __ <---
-lägger till + istället
 {
   "fkPersonId": 1,
   "links": [
@@ -88,7 +86,7 @@ lägger till + istället
       "fkInterestId": 1,
       "url": "www.nba.com"
     }
-  +
+  ]
 }
 
 
@@ -104,7 +102,7 @@ flera intrsssen/länkar:
       "fkInterestId": 2,
       "url": "www.example2.com"
     }
-  +
+  ]
 }
 
     
