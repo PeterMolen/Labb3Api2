@@ -2,7 +2,9 @@
 Swagger anrop och Json svar ifrån uppgiten:
   _____________________________________________
 
-Hämta alla personer i systemet:
+[ ] Hämta alla personer i systemet
+
+```json
 [
   {
     "personId": 1,
@@ -14,8 +16,7 @@ Hämta alla personer i systemet:
     "name": "Petrus",
     "phone": "Maximus@gmail.com"
   }
-+
-}
+]
 
   _____________________________________________
 
