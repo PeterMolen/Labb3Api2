@@ -3,14 +3,14 @@ Swagger anrop och Json svar ifrån uppgiten:
 
 Hämta alla personer i systemet:
   {
-    "personId": 1,
+  "personId": 1,
     "name": "Pete",
     "phone": "1337"
   },
   {
-    "personId": 3,
-    "name": "Petrus",
-    "phone": "Maximus@gmail.com"
+  "personId": 3,
+  "name": "Petrus",
+  "phone": "Maximus@gmail.com"
   }
 
   _____________________________________________
